@@ -22,4 +22,3 @@ The website incorporates high-quality images and multimedia elements to showcase
 With responsive CSS techniques, the website adapts fluidly to different screen sizes and devices, ensuring optimal viewing experiences across desktops, tablets, and smartphones.
 
 By leveraging HTML and CSS, this website serves as a comprehensive resource for enthusiasts and prospective buyers alike, offering insights into the iconic Nissan Skyline GTR series and its enduring legacy in automotive history.
-# CarProject
