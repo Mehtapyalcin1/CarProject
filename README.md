@@ -2,7 +2,8 @@
 This repository hosts the source code for a dynamic website focusing on the Nissan Skyline GTR, offering a comprehensive exploration of its features, design elements, and history. The website is built using HTML and CSS for structuring and styling, providing an engaging user experience.
 
 # GIF:
-![CarProject](https://github.com/SakirParlakbileker/CarProject/assets/147662891/86368af2-6022-4fbd-8625-dec8dc91b0c1)
+![EkranKayd2024-05-0620 06 44-ezgif com-video-to-gif-converter](https://github.com/Mehtapyalcin1/CarProject/assets/148896925/e727f6d5-8c74-4e4d-a373-c976acd663a8)
+
 
 # Key Features:
 
